@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int gain() {
     cout << "2 + 2 = " << 4 << endl;
 
     return 0;
